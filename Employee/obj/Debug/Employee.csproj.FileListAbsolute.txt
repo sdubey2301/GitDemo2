@@ -1,0 +1,17 @@
+C:\Users\sdubey71\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\sdubey71\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.Registration.resources
+C:\Users\sdubey71\source\repos\Employee\Employee\bin\Debug\conn.dll
+C:\Users\sdubey71\source\repos\Employee\Employee\bin\Debug\conn.pdb
+C:\Users\sdubey71\source\repos\Employee\Employee\bin\Debug\conn.dll.config
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CopyComplete
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.Add.resources
+C:\Users\sdubey71\source\repos\Employee\Employee\obj\Debug\Employee.Update.resources

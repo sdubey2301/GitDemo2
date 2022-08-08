@@ -1,0 +1,7 @@
+C:\Users\sdubey71\source\repos\Employee\conn\bin\Debug\conn.dll.config
+C:\Users\sdubey71\source\repos\Employee\conn\bin\Debug\conn.dll
+C:\Users\sdubey71\source\repos\Employee\conn\bin\Debug\conn.pdb
+C:\Users\sdubey71\source\repos\Employee\conn\obj\Debug\conn.csproj.AssemblyReference.cache
+C:\Users\sdubey71\source\repos\Employee\conn\obj\Debug\conn.csproj.CoreCompileInputs.cache
+C:\Users\sdubey71\source\repos\Employee\conn\obj\Debug\conn.dll
+C:\Users\sdubey71\source\repos\Employee\conn\obj\Debug\conn.pdb
